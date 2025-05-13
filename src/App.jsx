@@ -6,6 +6,7 @@ const App = () => {
       <div className='text-center'>
         <h1 className='text-3xl font-bold'>Welcome to React</h1>
         <p>Learning Docker</p>
+        <p>Docker Image Container</p>
       </div>
     </div>
   )
